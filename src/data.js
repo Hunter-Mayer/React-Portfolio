@@ -1,52 +1,52 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Group Project: Football Pickem' League",
+    subtitle: "Chart.js, Sequelize, Express-Handlebars",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "My classmates and I built a weekly college football league that uses chart.js to display a scoreboard!",
+    image: "./cfb_scoreboard.png",
+    link: "https://safe-sands-42348.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Group Project: Astrology App",
+    subtitle: "jQuery & Foundation",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "My classmates and I built a neat astrology app that uses two APIs to give a daily horoscope, among other things!",
+    image: "./projectOne_Screencap.png",
+    link: "https://bjbci.github.io/projectOne/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Just Another Text Editor",
+    subtitle: "Service Workers & Progressive Web Applications",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "In this project I built a progressive web applicaiton that can run offline!",
+    image: "./text_cat.PNG",
+    link: "https://radiant-eyrie-05038.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Original Portfolio",
+    subtitle: "HTML & CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "This is a very early project I worked on in the bootcamp, in which I made a portfolio with just raw HTML and CSS!",
+    image: "./Challenge_2_Screencapture.png",
+    link: " https://hunter-mayer.github.io/homework-2/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Hunter is pretty cool I guess. He gives us lots of cat treats.",
+    image: "./my_cats.jpg",
+    name: "Geralt & Jaskier",
+    company: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Best. Fiancé. EVER!",
+    image: "./alyshia.jpg",
+    name: "Alyshia Greene",
+    company: "",
   },
 ];
 
