@@ -63,7 +63,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 Github Repo: https://github.com/Hunter-Mayer/React-Portfolio
 
-Heroku Link: https://radiant-eyrie-05038.herokuapp.com/
+Deployment Link: Broken (https://hunter-mayer.github.io/React-Portfolio/)
 
 ## Credits
 
